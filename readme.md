@@ -5,8 +5,10 @@ C#/VB practice
 
 ## Demo
 
+C#  
 ![C#](https://github.com/Polaris1080/GraphicalFizzBuzz/blob/master/Demo.gif)  
 
+VB.net  
 ![VB](https://github.com/Polaris1080/GraphicalFizzBuzz/blob/master/Demo.png)  
 
 ## Requirement
