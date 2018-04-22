@@ -6,6 +6,7 @@ C#/VB practice
 ## Demo
 
 ![C#](https://github.com/Polaris1080/GraphicalFizzBuzz/blob/master/Demo.gif)  
+
 ![VB](https://github.com/Polaris1080/GraphicalFizzBuzz/blob/master/Demo.png)  
 
 ## Requirement
