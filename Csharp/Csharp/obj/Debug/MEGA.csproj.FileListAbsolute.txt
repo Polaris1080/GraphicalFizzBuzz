@@ -1,0 +1,6 @@
+C:\Users\milkm\Google ドライブ\project\C#\MEGA\MEGA\bin\Debug\MEGA.exe.config
+C:\Users\milkm\Google ドライブ\project\C#\MEGA\MEGA\bin\Debug\MEGA.exe
+C:\Users\milkm\Google ドライブ\project\C#\MEGA\MEGA\bin\Debug\MEGA.pdb
+C:\Users\milkm\Google ドライブ\project\C#\MEGA\MEGA\obj\Debug\MEGA.csproj.CoreCompileInputs.cache
+C:\Users\milkm\Google ドライブ\project\C#\MEGA\MEGA\obj\Debug\MEGA.exe
+C:\Users\milkm\Google ドライブ\project\C#\MEGA\MEGA\obj\Debug\MEGA.pdb

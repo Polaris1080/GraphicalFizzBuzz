@@ -1,0 +1,7 @@
+C:\Users\Polar\source\repos\GraphicalFizzBuzz\Csharp\Csharp\obj\Debug\Csharp.csprojResolveAssemblyReference.cache
+C:\Users\Polar\source\repos\GraphicalFizzBuzz\Csharp\Csharp\obj\Debug\Csharp.csproj.CoreCompileInputs.cache
+C:\Users\Polar\source\repos\GraphicalFizzBuzz\Csharp\Csharp\bin\Debug\GraphicalFizzBuzz_Csharp.exe.config
+C:\Users\Polar\source\repos\GraphicalFizzBuzz\Csharp\Csharp\bin\Debug\GraphicalFizzBuzz_Csharp.exe
+C:\Users\Polar\source\repos\GraphicalFizzBuzz\Csharp\Csharp\bin\Debug\GraphicalFizzBuzz_Csharp.pdb
+C:\Users\Polar\source\repos\GraphicalFizzBuzz\Csharp\Csharp\obj\Debug\GraphicalFizzBuzz_Csharp.exe
+C:\Users\Polar\source\repos\GraphicalFizzBuzz\Csharp\Csharp\obj\Debug\GraphicalFizzBuzz_Csharp.pdb

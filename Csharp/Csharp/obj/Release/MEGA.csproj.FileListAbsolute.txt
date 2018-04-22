@@ -1,0 +1,14 @@
+C:\Users\milkm\Google ドライブ\project\C#\MEGA\MEGA\bin\Release\MEGA.exe.config
+C:\Users\milkm\Google ドライブ\project\C#\MEGA\MEGA\bin\Release\MEGA.exe
+C:\Users\milkm\Google ドライブ\project\C#\MEGA\MEGA\bin\Release\MEGA.pdb
+C:\Users\milkm\Google ドライブ\project\C#\MEGA\MEGA\obj\Release\MEGA.csprojResolveAssemblyReference.cache
+C:\Users\milkm\Google ドライブ\project\C#\MEGA\MEGA\obj\Release\MEGA.csproj.CoreCompileInputs.cache
+C:\Users\milkm\Google ドライブ\project\C#\MEGA\MEGA\obj\Release\MEGA.exe
+C:\Users\milkm\Google ドライブ\project\C#\MEGA\MEGA\obj\Release\MEGA.pdb
+C:\Users\Polar\Google ドライブ\project\C#\MEGA\MEGA\bin\Release\MEGA.exe.config
+C:\Users\Polar\Google ドライブ\project\C#\MEGA\MEGA\bin\Release\MEGA.exe
+C:\Users\Polar\Google ドライブ\project\C#\MEGA\MEGA\bin\Release\MEGA.pdb
+C:\Users\Polar\Google ドライブ\project\C#\MEGA\MEGA\obj\Release\MEGA.csprojResolveAssemblyReference.cache
+C:\Users\Polar\Google ドライブ\project\C#\MEGA\MEGA\obj\Release\MEGA.csproj.CoreCompileInputs.cache
+C:\Users\Polar\Google ドライブ\project\C#\MEGA\MEGA\obj\Release\MEGA.exe
+C:\Users\Polar\Google ドライブ\project\C#\MEGA\MEGA\obj\Release\MEGA.pdb
