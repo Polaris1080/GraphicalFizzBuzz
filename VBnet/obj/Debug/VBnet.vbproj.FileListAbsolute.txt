@@ -1,0 +1,11 @@
+C:\Users\Polar\Desktop\GraphicalFizzBuzz\VBnet\bin\Debug\VBnet.exe.config
+C:\Users\Polar\Desktop\GraphicalFizzBuzz\VBnet\bin\Debug\VBnet.exe
+C:\Users\Polar\Desktop\GraphicalFizzBuzz\VBnet\bin\Debug\VBnet.pdb
+C:\Users\Polar\Desktop\GraphicalFizzBuzz\VBnet\bin\Debug\VBnet.xml
+C:\Users\Polar\Desktop\GraphicalFizzBuzz\VBnet\obj\Debug\VBnet.Form.resources
+C:\Users\Polar\Desktop\GraphicalFizzBuzz\VBnet\obj\Debug\VBnet.Resources.resources
+C:\Users\Polar\Desktop\GraphicalFizzBuzz\VBnet\obj\Debug\VBnet.vbproj.GenerateResource.cache
+C:\Users\Polar\Desktop\GraphicalFizzBuzz\VBnet\obj\Debug\VBnet.vbproj.CoreCompileInputs.cache
+C:\Users\Polar\Desktop\GraphicalFizzBuzz\VBnet\obj\Debug\VBnet.exe
+C:\Users\Polar\Desktop\GraphicalFizzBuzz\VBnet\obj\Debug\VBnet.xml
+C:\Users\Polar\Desktop\GraphicalFizzBuzz\VBnet\obj\Debug\VBnet.pdb

@@ -1,0 +1,6 @@
+C:\Users\Polar\Desktop\GraphicalFizzBuzz\Csharp\bin\Release\Csharp.exe.config
+C:\Users\Polar\Desktop\GraphicalFizzBuzz\Csharp\bin\Release\Csharp.exe
+C:\Users\Polar\Desktop\GraphicalFizzBuzz\Csharp\bin\Release\Csharp.pdb
+C:\Users\Polar\Desktop\GraphicalFizzBuzz\Csharp\obj\Release\Csharp.csproj.CoreCompileInputs.cache
+C:\Users\Polar\Desktop\GraphicalFizzBuzz\Csharp\obj\Release\Csharp.exe
+C:\Users\Polar\Desktop\GraphicalFizzBuzz\Csharp\obj\Release\Csharp.pdb

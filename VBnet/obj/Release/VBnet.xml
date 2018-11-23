@@ -1,0 +1,137 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+VBnet
+</name>
+</assembly>
+<members>
+<member name="T:VBnet.My.Resources.Resources">
+<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+<member name="P:VBnet.My.Resources.Resources.ResourceManager">
+<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member>
+<member name="P:VBnet.My.Resources.Resources.Culture">
+<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member>
+<member name="M:VBnet.Form.FormLoad(System.Object,System.EventArgs)">
+ <summary>フォームが呼び出されたとき</summary>
+</member>
+<member name="M:VBnet.Form.TimerRefresh(System.Object,System.EventArgs)">
+ <summary>タイマー[Timer_1s.Start()]から呼び出される</summary>
+</member>
+<member name="M:VBnet.Form.FormPaint(System.Object,System.Windows.Forms.PaintEventArgs)">
+ <summary>描画コマンド[Me.Refresh()]から呼び出される　棒グラフを描画する</summary>
+</member>
+<member name="M:VBnet.Form.CounterReset(System.Object,System.EventArgs)">
+ <summary>秒[Label_Second]がクリックされたとき、カウンターをリセットする。</summary>
+</member>
+<member name="M:VBnet.Form.FizzBuzz(System.Int32)">
+ <summary>Fizzbuzz</summary><param name="Second">判定基準となる秒数</param>
+</member>
+<member name="T:VBnet.CounterWrapper">
+ <summary>カウンター機能のラッパー</summary>
+</member>
+<member name="F:VBnet.CounterWrapper.Counter">
+ <summary>カウンター</summary>
+</member>
+<member name="F:VBnet.CounterWrapper.Counter_All">
+ <summary>カウンター（全体での合計）</summary>
+</member>
+<member name="M:VBnet.CounterWrapper.GetString">
+ <summary>[カウンター]を、Stringで出力</summary>
+</member>
+<member name="M:VBnet.CounterWrapper.GetRatio">
+ <summary>[カウンター／全体での合計]を、Doubleで出力</summary>
+</member>
+<member name="M:VBnet.CounterWrapper.Increment">
+ <summary>インクリメント</summary>
+</member>
+<member name="M:VBnet.CounterWrapper.Increment(System.String@)">
+ <summary>インクリメント</summary><param name="TargetText">Textを書き換える対象</param>
+</member>
+<member name="M:VBnet.CounterWrapper.Reset(System.Boolean)">
+ <summary>リセット</summary>
+ <param name="Flag_ResetAll">Trueなら、全体での合計もリセット</param>
+</member>
+<member name="M:VBnet.CounterWrapper.Reset(System.String@,System.Boolean)">
+ <summary>リセット</summary>
+ <param name="TargetText">Textを書き換える対象</param>
+ <param name="Flag_ResetAll">Trueなら、全体での合計もリセット</param>
+</member>
+<member name="T:VBnet.DatetimeWrapper">
+ <summary>DataTime機能のラッパー</summary>
+</member>
+<member name="M:VBnet.DatetimeWrapper.GetSecond">
+ <summary>現在の秒数を取得</summary>
+</member>
+<member name="M:VBnet.DatetimeWrapper.GetColor(System.Drawing.Color@,System.Boolean,System.Boolean,System.Boolean)">
+ <summary>現在の時間(Datetime)から、色を計算して、Colorプロパティを書換え</summary>
+ <param name="Target">Colorプロパティを書換える対象</param>
+ <param name="Flag_R">Rチャンネルが必要か?</param>
+ <param name="Flag_G">Gチャンネルが必要か?</param>
+ <param name="Flag_B">Bチャンネルが必要か?</param>
+</member>
+<member name="M:VBnet.DatetimeWrapper.GetText(System.String@,System.String)">
+ <summary>Textプロパティを書換え</summary>
+ <param name="Target">Textプロパティを書換える対象</param>
+ <param name="Command">種別判定文字列</param>
+</member>
+<member name="M:VBnet.DatetimeWrapper.Now">
+ <summary>最新の時間に更新</summary>
+</member>
+<member name="T:VBnet.GraphWrapper">
+ <summary>グラフ機能のラッパー</summary>
+</member>
+<member name="F:VBnet.GraphWrapper.GraphStart">
+ <summary>グラフ全体の始点</summary>
+</member>
+<member name="F:VBnet.GraphWrapper.WidthAll">
+ <summary>グラフ全体の長さ</summary>
+</member>
+<member name="P:VBnet.GraphWrapper.Brush">
+ <summary>グラフの色</summary>
+</member>
+<member name="P:VBnet.GraphWrapper.Y">
+ <summary>グラフのＹ座標</summary>
+</member>
+<member name="P:VBnet.GraphWrapper.Height">
+ <summary>グラフの高さ</summary>
+</member>
+<member name="F:VBnet.GraphWrapper.X">
+ <summary>グラフのＸ座標</summary>
+</member>
+<member name="F:VBnet.GraphWrapper.Width">
+ <summary>グラフの長さ</summary>
+</member>
+<member name="M:VBnet.GraphWrapper.GetWidth">
+ <summary>グラフの長さを取得</summary>
+</member>
+<member name="M:VBnet.GraphWrapper.SetWidth(System.Double)">
+ <summary>グラフの長さを設定</summary>
+</member>
+<member name="M:VBnet.GraphWrapper.GetX">
+ <summary>グラフのＸ座標を取得(FizzBuzz)</summary>
+</member>
+<member name="M:VBnet.GraphWrapper.SetX">
+ <summary>グラフのＸ座標を設定(FizzBuzz)</summary>
+</member>
+<member name="M:VBnet.GraphWrapper.SetX(System.Single)">
+ <summary>グラフのＸ座標を設定(Fizz)</summary>
+ <param name="P_Width">FizzBuzzの長さ</param>
+</member>
+<member name="M:VBnet.GraphWrapper.SetX(System.Single,System.Single)">
+ <summary>グラフのＸ座標を設定(Buzz/Other)</summary>
+ <param name="P_X">FizzBuzz/FizzのＸ座標</param>
+ <param name="P_Width">Fizz/Buzzの長さ</param>
+</member>
+</members>
+</doc>
